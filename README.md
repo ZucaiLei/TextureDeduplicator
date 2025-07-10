@@ -1,4 +1,6 @@
 # TextureDeduplicator
+Unity重复图片只有检查
+
 支持以下功能
 
 ✅ Project 窗口右键图片「纹理（检查是否重复）」
